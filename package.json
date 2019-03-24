@@ -1,18 +1,18 @@
 {
-  "name": "oc-client",
+  "name": "@wsalazar/oc-client",
   "version": "3.2.4",
   "description": "Node.js oc client",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/opencomponents/oc-client-node"
+    "url": "https://github.com/PeakActivity/oc-client-node"
   },
   "author": "Matteo Figus",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/opencomponents/oc-client-node/issues"
+    "url": "https://github.com/PeakActivity/oc-client-node/issues"
   },
-  "homepage": "https://github.com/opencomponents/oc-client-node",
+  "homepage": "https://github.com/PeakActivity/oc-client-node",
   "scripts": {
     "test": "mocha test/**/*.js",
     "precommit": "lint-staged"
